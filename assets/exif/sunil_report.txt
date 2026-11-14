@@ -1,0 +1,17 @@
+========== IMAGE TAMPER ANALYSIS ==========
+Final Decision: Suspicious
+Total Risk Score: 60
+
+----- EXIF ANALYSIS -----
+has_exif: False
+camera_make: None
+camera_model: None
+software: None
+datetime: None
+risk_score: 60
+reasons: ['No EXIF metadata found']
+
+----- ELA ANALYSIS -----
+ela_score: 6
+risk_score: 0
+reasons: []

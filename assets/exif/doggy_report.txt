@@ -1,0 +1,17 @@
+========== IMAGE TAMPER ANALYSIS ==========
+Final Decision: Likely Tampered
+Total Risk Score: 110
+
+----- EXIF ANALYSIS -----
+has_exif: False
+camera_make: None
+camera_model: None
+software: None
+datetime: None
+risk_score: 60
+reasons: ['No EXIF metadata found']
+
+----- ELA ANALYSIS -----
+ela_score: 58
+risk_score: 50
+reasons: ['High compression artifacts detected']
